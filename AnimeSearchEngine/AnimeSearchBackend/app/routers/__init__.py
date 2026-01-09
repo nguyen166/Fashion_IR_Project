@@ -1,3 +1,0 @@
-"""
-Routers Package - API Endpoints
-"""

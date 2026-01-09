@@ -1,3 +1,0 @@
-"""
-Services Package - Business Logic
-"""

@@ -1,1 +1,0 @@
-pip install fastapi[standard] open_clip_torch
